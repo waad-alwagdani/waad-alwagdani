@@ -1,16 +1,31 @@
-## Hi there 👋
+# Waad Alwagdani
 
-<!--
-**waad-alwagdani/waad-alwagdani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building practical, user-focused digital solutions for healthcare workflows.
 
-Here are some ideas to get you started:
+## Featured Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Pharmacy Service Portal
+
+<a href="https://waad-alwagdani.github.io/pharmacy-service-portal-demo/">
+  <img src="https://raw.githubusercontent.com/waad-alwagdani/pharmacy-service-portal-demo/main/preview.png" alt="Pharmacy Service Portal Demo" width="100%">
+</a>
+
+A bilingual, responsive pharmacy service portal prototype featuring a multi-step workflow, client-side validation, dynamic review generation, and simulated asynchronous submission.
+
+**HTML5 · CSS3 · Vanilla JavaScript · DOM API · Responsive Design · RTL**
+
+[▶ Live Demo](https://waad-alwagdani.github.io/pharmacy-service-portal-demo/) · [View Repository](https://github.com/waad-alwagdani/pharmacy-service-portal-demo)
+
+---
+
+### What this project demonstrates
+
+- Multi-step form logic
+- DOM manipulation
+- Client-side validation and input sanitization
+- Conditional rendering
+- Dynamic review generation
+- Arabic / English bilingual UI
+- RTL-responsive interface design
+- Simulated asynchronous workflow
+- Privacy-first demo architecture
