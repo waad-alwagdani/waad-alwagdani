@@ -29,3 +29,17 @@ A bilingual, responsive pharmacy service portal prototype featuring a multi-step
 - RTL-responsive interface design
 - Simulated asynchronous workflow
 - Privacy-first demo architecture
+
+---
+
+## Inventory Status Dashboard
+
+<a href="https://waad-alwagdani.github.io/inventory-status-dashboard/">
+  <img src="https://raw.githubusercontent.com/waad-alwagdani/inventory-status-dashboard/main/preview.png" alt="Inventory Status Dashboard" width="100%">
+</a>
+
+A bilingual inventory visibility showcase for monitoring stock status, availability changes, and near-expiry items.
+
+**HTML5 · CSS3 · Vanilla JavaScript · Responsive UI**
+
+[▶ Live Demo](https://waad-alwagdani.github.io/inventory-status-dashboard/) · [View Repository](https://github.com/waad-alwagdani/inventory-status-dashboard)
