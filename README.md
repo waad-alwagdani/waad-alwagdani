@@ -18,7 +18,7 @@ I build practical, bilingual (Arabic / English) digital tools for healthcare wor
 
 | Project | What it does |
 |---|---|
-| 🗂️ [inventory-status-dashboard](https://github.com/waad-alwagdani/inventory-status-dashboard) | Bilingual dashboard for real-time stock status, availability monitoring, and near-expiry alerts |
+| 🗂️ [inventory-status-dashboard](https://github.com/waad-alwagdani/inventory-status-dashboard) | Real-time, bilingual inventory intelligence that turns stock awareness into instinct |
 | 💊 [pharmacy-service-portal-demo](https://github.com/waad-alwagdani/pharmacy-service-portal-demo) | Bilingual portal prototype for medication refill requests and patient feedback, with client-side validation |
 
 **Let's connect**
